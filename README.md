@@ -23,16 +23,8 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LukaVieira1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukaVieira1&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-## 🌟 Featured Projects
-- [Project Name](link) - Brief description
-- [Project Name](link) - Brief description
-
-## 📈 Contributions
-![Snake animation](https://github.com/LukaVieira1/LukaVieira1/blob/output/github-contribution-grid-snake.svg)
 
 ## 🤝 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukaviera/)
