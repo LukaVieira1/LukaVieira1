@@ -4,7 +4,7 @@
 - 🔭 I'm currently working as a Frontend Developer
 - 🌱 I'm always learning and improving my skills
 - 📫 How to reach me: lukavieira14@gmail.com
-- 🔔 My portfolio: https://www.lukavieira.tech/
+- 🔔 My portfolio: https://www.lukavieira.com
 
 ## 🛠️ Tech Stack & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
